@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://kubaandrysek.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kubaandrysek.cz/" rel="alternate" type="text/html" /><updated>2020-06-10T22:57:51+00:00</updated><id>https://kubaandrysek.cz/feed.xml</id><title type="html">Kuba Andrýsek</title><subtitle>Jmenuji se Jakub Andrýsek, ale všichni mi říkají Kubo. Jsem programátor, 3D modelář a elektronik v Robotárně.</subtitle><author><name>Kuba Andrýsek</name></author><entry><title type="html">Vánoční stromeček</title><link href="https://kubaandrysek.cz/laser/2019/12/20/stromecek/" rel="alternate" type="text/html" title="Vánoční stromeček" /><published>2019-12-20T16:00:00+00:00</published><updated>2019-12-20T16:00:00+00:00</updated><id>https://kubaandrysek.cz/laser/2019/12/20/stromecek</id><content type="html" xml:base="https://kubaandrysek.cz/laser/2019/12/20/stromecek/">&lt;h1 id=&quot;podklady-a-návod-na-výrobu-stromečku-pro-ddm-helceletka&quot;&gt;Podklady a návod na výrobu stromečku pro DDM Helceletka&lt;/h1&gt;
+
+&lt;p&gt;V listopadu 2019 jsem připravoval vánoční dílničky pro &lt;a href=&quot;https://helceletka.cz/&quot;&gt;DDM Helceletku&lt;/a&gt;. Stromeček je na laseru vyřezán z 3mm překližky. Během prosince 2019 se v Brně na pobočkách Helceletky vyrobilo přes 350 vánočních stromečků.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Tma.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Tma.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Komponenty.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Komponenty.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Zepredu.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Zepredu.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Zezadu.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Zezadu.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Pajeni.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Pajeni.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;konstrukce&quot;&gt;Konstrukce&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;dřevěný stromeček&lt;/li&gt;
+  &lt;li&gt;5 červených LED&lt;/li&gt;
+  &lt;li&gt;držák 9V baterie&lt;/li&gt;
+  &lt;li&gt;9V baterii&lt;/li&gt;
+  &lt;li&gt;4.7K rezistor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;návod-k-výrobě&quot;&gt;Návod k výrobě&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Stromecek_navod_Page_1.png&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Stromecek_navod_Page_1.png&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Stromecek_navod_Page_2.png&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Stromecek_navod_Page_2.png&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Stromecek_navod.pdf&quot; target=&quot;_blank&quot;&gt;&lt;button class=&quot;orange-button&quot;&gt;&lt;i class=&quot;fa fa-download&quot; style=&quot;margin-right:8px;&quot;&gt;&lt;/i&gt;Stáhnout návod&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;podklady-pro-výrobu&quot;&gt;Podklady pro výrobu&lt;/h2&gt;
+
+&lt;p&gt;Jeden stromeček
+&lt;br /&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Stromecek1ks.png&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery&quot; src=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Stromecek1ks.png&quot; alt=&quot;&quot; height=&quot;300&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Stromecek1ks.svg&quot; download=&quot;&quot;&gt;&lt;button class=&quot;orange-button&quot;&gt;&lt;i class=&quot;fa fa-download&quot; style=&quot;margin-right:8px;&quot;&gt;&lt;/i&gt;Stáhnout podklady&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;100 stromečků&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Stromecek100ks.png&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery&quot; src=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Stromecek100ks.png&quot; alt=&quot;&quot; height=&quot;300&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Stromecek100ks.svg&quot; download=&quot;&quot;&gt;&lt;button class=&quot;orange-button&quot;&gt;&lt;i class=&quot;fa fa-download&quot; style=&quot;margin-right:8px;&quot;&gt;&lt;/i&gt;Stáhnout podklady&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Hromada.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Hromada.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Plato.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Plato.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;další-prototyp&quot;&gt;Další prototyp&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Starsi.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/stromecek/Starsi.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;</content><author><name>Kuba Andrýsek</name></author><category term="laser" /><summary type="html">Podklady a návod na výrobu stromečku pro DDM Helceletka</summary></entry><entry><title type="html">Betlém</title><link href="https://kubaandrysek.cz/laser/2019/12/20/betlem/" rel="alternate" type="text/html" title="Betlém" /><published>2019-12-20T15:00:00+00:00</published><updated>2019-12-20T15:00:00+00:00</updated><id>https://kubaandrysek.cz/laser/2019/12/20/betlem</id><content type="html" xml:base="https://kubaandrysek.cz/laser/2019/12/20/betlem/">&lt;h1 id=&quot;svítící-betlém-jako-vánoční-dárek&quot;&gt;Svítící betlém jako Vánoční dárek&lt;/h1&gt;
+
+&lt;p&gt;Betlém je vyroben z 4 mm tlustého plexi, které je přidělané na dřevěném držáku. Uvnitř držáku je umístěn RGB LED pásek dlouhý 15 cm.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/betlem/Betlem1.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;Betlem1&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/betlem/Betlem1.jpg&quot; alt=&quot;Betlem1&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/betlem/Betlem2.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;Betlem2&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/betlem/Betlem2.jpg&quot; alt=&quot;Betlem2&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/betlem/Betlem3.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;Betlem3&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/betlem/Betlem3.jpg&quot; alt=&quot;Betlem3&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/betlem/Betlem4.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;Betlem4&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/betlem/Betlem4.jpg&quot; alt=&quot;Betlem4&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Betlém je napájen z USB konektoru, který lze jednoduše připojit do Power banky, nebo do počítače.&lt;/p&gt;
+
+&lt;p&gt;Rozměry: 150*100 mm&lt;/p&gt;
+
+&lt;p&gt;Doba výroby: cca 2 hodiny&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/betlem/Podklady.png&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;Podklady&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/betlem/Podklady.png&quot; alt=&quot;Podklady&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/betlem/Betlem.pdf&quot; target=&quot;_blank&quot;&gt;&lt;button class=&quot;orange-button&quot;&gt;&lt;i class=&quot;fa fa-download&quot; style=&quot;margin-right:8px;&quot;&gt;&lt;/i&gt;Stáhnout výrobní podklady&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Kuba Andrýsek</name></author><category term="laser" /><summary type="html">Svítící betlém jako Vánoční dárek</summary></entry><entry><title type="html">Fusion 360 postprocesor + nesting</title><link href="https://kubaandrysek.cz/navod/2019/12/03/nesting/" rel="alternate" type="text/html" title="Fusion 360 postprocesor + nesting" /><published>2019-12-03T15:00:00+00:00</published><updated>2019-12-03T15:00:00+00:00</updated><id>https://kubaandrysek.cz/navod/2019/12/03/nesting</id><content type="html" xml:base="https://kubaandrysek.cz/navod/2019/12/03/nesting/">&lt;h1 id=&quot;návod-pro-přípravu-podkladů-pro-laser-z-fusion-360&quot;&gt;Návod pro přípravu podkladů pro laser z Fusion 360&lt;/h1&gt;
+
+&lt;h2 id=&quot;obsah-návodu&quot;&gt;Obsah návodu&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Stažení postprocesoru&lt;/li&gt;
+  &lt;li&gt;Nastavení postprocesoru&lt;/li&gt;
+  &lt;li&gt;Podrobný návod na generování drah pro Fusion 360&lt;/li&gt;
+  &lt;li&gt;Pokročilé nastavení postprocesoru&lt;/li&gt;
+  &lt;li&gt;Souhrn nestovacích aplikací&lt;/li&gt;
+  &lt;li&gt;Podrobný návod pro práci s jednotlivými aplikacemi&lt;/li&gt;
+  &lt;li&gt;Další vychytávky&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;iframe-container&quot;&gt;
+&lt;iframe src=&quot;https://drive.google.com/file/d/120yMV6bapFM7dEGs11l3gzDAo6fNYaFJ/preview&quot; width=&quot;800&quot; height=&quot;600&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/nesting/Fusion-360-postprocesor+nesting.pdf&quot; target=&quot;_blank&quot;&gt;&lt;button class=&quot;orange-button&quot;&gt;&lt;i class=&quot;fa fa-download&quot; style=&quot;margin-right:8px;&quot;&gt;&lt;/i&gt;Stáhnout návod&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Kuba Andrysek</name></author><category term="navod" /><summary type="html">Návod pro přípravu podkladů pro laser z Fusion 360</summary></entry><entry><title type="html">3D model obratle</title><link href="https://kubaandrysek.cz/3d-tisk/2019/12/03/obratel/" rel="alternate" type="text/html" title="3D model obratle" /><published>2019-12-03T15:00:00+00:00</published><updated>2019-12-03T15:00:00+00:00</updated><id>https://kubaandrysek.cz/3d-tisk/2019/12/03/obratel</id><content type="html" xml:base="https://kubaandrysek.cz/3d-tisk/2019/12/03/obratel/">&lt;h1 id=&quot;3d-model-obratle&quot;&gt;3D model obratle&lt;/h1&gt;
+
+&lt;p&gt;Přesný model lidského obratlu vyrobený na 3D tiskárně v s měřítkem 1:1&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/obratel/obratel18.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/obratel/obratel18.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/obratel/obratel1.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/obratel/obratel1.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/obratel/obratel2.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/obratel/obratel2.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/obratel/obratel6.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/obratel/obratel6.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;výroba&quot;&gt;Výroba&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;vytisknutí modelu na 3D tiskárně&lt;/li&gt;
+  &lt;li&gt;odstranění podpor&lt;/li&gt;
+  &lt;li&gt;začištění modelu&lt;/li&gt;
+  &lt;li&gt;opakované nastříkání zlatou barvou&lt;/li&gt;
+  &lt;li&gt;vyřezání podstavce&lt;/li&gt;
+  &lt;li&gt;zabroušení podstavce&lt;/li&gt;
+  &lt;li&gt;sešroubování s obratlem&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/obratel/Obratel_podklady.zip&quot; target=&quot;_blank&quot;&gt;&lt;button class=&quot;orange-button&quot;&gt;&lt;i class=&quot;fa fa-download&quot; style=&quot;margin-right:8px;&quot;&gt;&lt;/i&gt;Stáhnout výrobní podklady&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/obratel/obratel20.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/obratel/obratel20.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/obratel/obratel21.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/obratel/obratel21.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/obratel/obratel8.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/obratel/obratel8.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/obratel/obratel7.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/obratel/obratel7.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/obratel/obratel10.gif&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/obratel/obratel10.gif&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;</content><author><name>Kuba Andrýsek</name></author><category term="3D-tisk" /><summary type="html">3D model obratle</summary></entry><entry><title type="html">Roboruka</title><link href="https://kubaandrysek.cz/roboruka/2019/10/15/roboruka/" rel="alternate" type="text/html" title="Roboruka" /><published>2019-10-15T19:00:00+00:00</published><updated>2019-10-15T19:00:00+00:00</updated><id>https://kubaandrysek.cz/roboruka/2019/10/15/roboruka</id><content type="html" xml:base="https://kubaandrysek.cz/roboruka/2019/10/15/roboruka/">&lt;h2 id=&quot;roboruka-je-robotická-stavebnice-z-robotárny-pobočka-ddm-helceletova-tato-stavebnice-byla-poprvé-uvedena-na-robotickém-táboře-2019&quot;&gt;Roboruka je robotická stavebnice z Robotárny (&lt;a href=&quot;https://helceletka.cz/&quot;&gt;pobočka DDM Helceletova&lt;/a&gt;). Tato stavebnice byla poprvé uvedena na Robotickém táboře 2019.&lt;/h2&gt;
+
+&lt;p&gt;Jedná se o všestranně využitelného robota. Vhodný do robotických soutěží (např. na &lt;a href=&quot;http://robotickyden.cz/&quot;&gt;Robotickém dni&lt;/a&gt; na soutěž Roadside Assistance). Rukou hýbají 3 serva, což jí umožňuje mít velký manipulační prostor.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Bok.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Bok.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Jeden.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Jeden.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Klepeto2.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Klepeto2.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Zvrchu.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Zvrchu.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Zepredu.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Zepredu.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;48%&quot; height=&quot;260px&quot; class=&quot;standart&quot; src=&quot;https://www.youtube.com/embed/K9F9NGAlI_M&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;popis&quot;&gt;Popis&lt;/h2&gt;
+
+&lt;h3 id=&quot;řízení&quot;&gt;Řízení&lt;/h3&gt;
+&lt;p&gt;Robotická ruka je řízená pomocí naší desky &lt;a href=&quot;https://github.com/RoboticsBrno/RB3201-RBControl&quot;&gt;RBController&lt;/a&gt;. Mozkem této desky je &lt;a href=&quot;https://www.espressif.com/en/products/devkits/esp32-devkitc/overview&quot;&gt;ESP32-WROOM&lt;/a&gt;. Deska zvládá řídit až 8 DC motorů a obsluhovat 8 enkodérů. Umí ovládat 8 modelářských serv nebo 4 inteligentní serva &lt;a href=&quot;https://www.hiwonder.hk/products/hiwonder-lx-15d-serial-bus-servo&quot;&gt;LX-15D&lt;/a&gt; . Expander přidáva možnost ovládat o 16 pinů více. Na desce je připravena ochrana proti přepólování a podvybití.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Deska_B.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Deska_B.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Uvnitr2.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Uvnitr2.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;konstrukce&quot;&gt;Konstrukce&lt;/h3&gt;
+&lt;p&gt;Největší část robota je vyrobená z překližky vyřezané na laseru. Podvozek je vypálený z 3 milimetrové překližky a robotická ruka s rámem je postavena z 3 mm tlustých a 16 mm širokých dřevíček, které jsme si nařezali na popřebné délky.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/13.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/13.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Dily.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Dily.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Podvozek.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Podvozek.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Konstrukce.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Konstrukce.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;pohyb&quot;&gt;Pohyb&lt;/h3&gt;
+
+&lt;p&gt;Jízdu zajišťují dva DC motory řízené RBControllerem na které jsou připojeny magnetické enkodéry. Pohyb ruky řídí 3 inteligentní serva &lt;a href=&quot;https://www.hiwonder.hk/products/hiwonder-lx-15d-serial-bus-servo&quot;&gt;LX-15D&lt;/a&gt; propojená sériově do řídící desky. Serva mají rozsah 240 stupňů, kroutící moment 17 kg/cm a dokáží vyčítat svoji pozici.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Motor.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Motor.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Motory.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Motory.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;napájeni&quot;&gt;Napájeni&lt;/h3&gt;
+&lt;p&gt;Robot je napájen z našeho baterry packu, který obsahuje dvě 18650 li-ion baterie. Rám packu tvoří plošný spoj do kterého jsou připájeny kontakty na baterie a výstupní piny. Pro nábíjení se využíva modul TP4056 s micro USB konektorem.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Bat1.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Bat1.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Bat2.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Bat2.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Nabijecka.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Nabijecka.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Motor2.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Motor2.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;dálkové-ovládání&quot;&gt;Dálkové ovládání&lt;/h3&gt;
+&lt;p&gt;Robot jde ovládat přes univerzální mobilní aplikaci &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.tassadar.rbcontroller&quot;&gt;RBController&lt;/a&gt; která je k dispozici pro Android na Google play, nebo pro Windows na &lt;a href=&quot;https://github.com/RoboticsBrno/rbcontroller-electron/releases&quot;&gt;Githubu&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Rbc2.png&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Rbc2.png&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/App.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/App.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;programování&quot;&gt;Programování&lt;/h3&gt;
+&lt;p&gt;Software pro Roboruku je napsaný v C++ ve Visual Studiu. Pro řízení desky RBController je vytvořená knihovna &lt;a href=&quot;https://github.com/RoboticsBrno/RB3201-RBControl-library&quot;&gt;RB3201-RBControl-library&lt;/a&gt;, na které je postavena knihovna &lt;a href=&quot;https://github.com/RoboticsBrno/RB3201-RBControl-Roboruka-library&quot;&gt;RB3201-RBControl-Roboruka-library&lt;/a&gt; která zjednodušuje programování Roboruky. Příklady práce s knihovnou a testovací programy naleznete na &lt;a href=&quot;https://github.com/RoboticsBrno/roboruka-examples&quot;&gt;Githubu&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/RoboticsBrno/roboruka-examples&quot; target=&quot;_blank&quot;&gt;&lt;button class=&quot;orange-button&quot;&gt;&lt;i class=&quot;fab fa-github fa-lg &quot; style=&quot;margin-right:8px;&quot;&gt;​&lt;/i&gt;​Příklady kódu&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Program.png&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Program.png&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Git.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Git.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;rameno-a-klepeto&quot;&gt;Rameno a klepeto&lt;/h3&gt;
+&lt;p&gt;Konstrukce ramene je navržená tak, aby při pohybu objekt v klepetech dobře držel a jednoduše se s ním manipulovalo. Pro přesný pohyb ramene využíváme dvě inteligentní serva, třetí zajišťuje otevírání klepete.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Rameno.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Rameno.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Klepeto.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Klepeto.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;senzorická-lišta&quot;&gt;Senzorická lišta&lt;/h3&gt;
+&lt;p&gt;Na podvozek robota je připojena &lt;a href=&quot;https://github.com/RoboticsBrno/RB0001-LineSensor&quot;&gt;senzorická lišta&lt;/a&gt; s 8 senzory, pomocí které robot může jezdit po čáře, nebo po barevném rozhraní. Lišta s řídící deskou komunikuje přes sběrnici SPI. &lt;a href=&quot;https://github.com/RoboticsBrno/RB0001-LineSensor&quot;&gt;Knihovna&lt;/a&gt; pro senzorickou lištu.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Lista.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/Lista.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ui-board&quot;&gt;UI Board&lt;/h3&gt;
+&lt;p&gt;Rozšíření řídicí desky. Pomocí této desky jde robot programovat bez nutnosti otevření , zapínat/vypínat, ovládat tlačítka, atd.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/UI.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/UI.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/roboruka/UI-robot.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/roboruka/UI-robot.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- ### [Pohled do historie]() --&gt;</content><author><name>Kuba Andrýsek</name></author><category term="roboruka" /><summary type="html">Roboruka je robotická stavebnice z Robotárny (pobočka DDM Helceletova). Tato stavebnice byla poprvé uvedena na Robotickém táboře 2019.</summary></entry><entry><title type="html">Kalendář pro Lezčata.cz</title><link href="https://kubaandrysek.cz/lezcata/2018/10/25/lezcata-kalendar/" rel="alternate" type="text/html" title="Kalendář pro Lezčata.cz" /><published>2018-10-25T15:00:00+00:00</published><updated>2018-10-25T15:00:00+00:00</updated><id>https://kubaandrysek.cz/lezcata/2018/10/25/lezcata-kalendar</id><content type="html" xml:base="https://kubaandrysek.cz/lezcata/2018/10/25/lezcata-kalendar/">&lt;h1 id=&quot;napojení-sdíleného-google-kalendáře-pro-lezecký-oddíl-lezčata&quot;&gt;Napojení sdíleného Google kalendáře pro lezecký oddíl Lezčata&lt;/h1&gt;
+&lt;h2 id=&quot;wwwlezcatacz&quot;&gt;&lt;a href=&quot;http://lezcata.cz/&quot;&gt;www.lezcata.cz&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Akce se automaticky načítají ze společného Google kalendáře.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata10.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery&quot; src=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata10.jpg&quot; alt=&quot;&quot; width=&quot;60%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;kalendář-umožňuje-zobrazit&quot;&gt;Kalendář umožňuje zobrazit&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;datum konání&lt;/li&gt;
+  &lt;li&gt;popis akce&lt;/li&gt;
+  &lt;li&gt;místo konání&lt;/li&gt;
+  &lt;li&gt;obrázek&lt;/li&gt;
+  &lt;li&gt;přiložené dokumenty&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata6.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery&quot; src=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata6.jpg&quot; alt=&quot;&quot; width=&quot;60%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;</content><author><name>Kuba Andrýsek</name></author><category term="lezcata" /><summary type="html">Napojení sdíleného Google kalendáře pro lezecký oddíl Lezčata www.lezcata.cz</summary></entry><entry><title type="html">Webové stránky Lezčata.cz</title><link href="https://kubaandrysek.cz/lezcata/2017/06/13/lezcata/" rel="alternate" type="text/html" title="Webové stránky Lezčata.cz" /><published>2017-06-13T15:00:00+00:00</published><updated>2017-06-13T15:00:00+00:00</updated><id>https://kubaandrysek.cz/lezcata/2017/06/13/lezcata</id><content type="html" xml:base="https://kubaandrysek.cz/lezcata/2017/06/13/lezcata/">&lt;h1 id=&quot;webové-stránky-na-míru-pro-lezecký-oddíl-lezčata&quot;&gt;Webové stránky na míru pro lezecký oddíl Lezčata&lt;/h1&gt;
+&lt;h2 id=&quot;wwwlezcatacz&quot;&gt;&lt;a href=&quot;http://lezcata.cz/&quot;&gt;www.lezcata.cz&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata5.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery&quot; src=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata5.jpg&quot; alt=&quot;&quot; height=&quot;500px&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata7.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery&quot; src=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata7.jpg&quot; alt=&quot;&quot; height=&quot;500px&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata8.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery&quot; src=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata8.jpg&quot; alt=&quot;&quot; height=&quot;500px&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;fotky-z-akcí-jsou-nahrány-do-google-fotek-a-nasdíleny-na-stránky&quot;&gt;Fotky z akcí jsou nahrány do Google Fotek a nasdíleny na stránky&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata7.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata7.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;videa-z-akcí&quot;&gt;Videa z akcí&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata12.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata12.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;informace-o-závodech&quot;&gt;Informace o závodech&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata9.jpg&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata9.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- 
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata21.jpg&quot;  data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata21.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata8.jpg&quot;  data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata8.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata7.jpg&quot;  data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata7.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata10.gif&quot;  data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata10.gif&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata6.jpg&quot;  data-fancybox=&quot;gallery&quot; data-caption=&quot;&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/lezcata/lezcata6.jpg&quot; alt=&quot;&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt; --&gt;</content><author><name>Kuba Andrýsek</name></author><category term="lezcata" /><summary type="html">Webové stránky na míru pro lezecký oddíl Lezčata www.lezcata.cz</summary></entry><entry><title type="html">Ukázka jak správně vytvářet příspěvky pomocí šablony</title><link href="https://kubaandrysek.cz/template/2000/01/01/template/" rel="alternate" type="text/html" title="Ukázka jak správně vytvářet příspěvky pomocí šablony" /><published>2000-01-01T00:00:00+00:00</published><updated>2000-01-01T00:00:00+00:00</updated><id>https://kubaandrysek.cz/template/2000/01/01/template</id><content type="html" xml:base="https://kubaandrysek.cz/template/2000/01/01/template/">&lt;h1 id=&quot;hlavní-nadpis&quot;&gt;Hlavní nadpis&lt;/h1&gt;
+
+&lt;h2 id=&quot;vedlejší-nadpis&quot;&gt;Vedlejší nadpis&lt;/h2&gt;
+
+&lt;h3 id=&quot;podnadpis&quot;&gt;Podnadpis&lt;/h3&gt;
+
+&lt;p&gt;Popis projektu
+&lt;strong&gt;Bold&lt;/strong&gt;
+&lt;em&gt;Italic&lt;/em&gt;
+&lt;del&gt;Přškrtnutý text&lt;/del&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Popisek&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Seznam&lt;/li&gt;
+  &lt;li&gt;Seznam&lt;/li&gt;
+  &lt;li&gt;Seznam&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Číselný seznam&lt;/li&gt;
+  &lt;li&gt;Číselný seznam&lt;/li&gt;
+  &lt;li&gt;Číselný seznam&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;return ZDROJOVÝ KÓD;&lt;/code&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'a'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/&quot;&gt;Odkaz na kubaandrysek.cz&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Obrázky&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/template/blog.png&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;Blog&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/template/blog.png&quot; alt=&quot;Blog&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;
+&lt;a href=&quot;https://kubaandrysek.cz/assets/blog/template/temp.png&quot; data-fancybox=&quot;gallery&quot; data-caption=&quot;Blog&quot;&gt;
+	&lt;img class=&quot;gallery standart&quot; src=&quot;https://kubaandrysek.cz/assets/blog/template/temp.png&quot; alt=&quot;Blog&quot; width=&quot;48%&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kubaandrysek.cz/styleguide&quot;&gt;Více ukázky ZDE&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;zdrojový-kód-stránky&quot;&gt;Zdrojový kód stránky&lt;/h3&gt;
+&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+                                 &lt;span class=&quot;c1&quot;&gt;#url se určuje podle názvu&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Ukázka jak správně vytvářet příspěvky pomocí šablony&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;#title|název článku   &lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;layout&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;post&lt;/span&gt;                     &lt;span class=&quot;c1&quot;&gt;#layout|šablona&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;author&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Kuba Andrysek&lt;/span&gt;            &lt;span class=&quot;c1&quot;&gt;#authos|autor&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;2000-01-01&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;00:00:00&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;+1'&lt;/span&gt;   &lt;span class=&quot;c1&quot;&gt;#date|datum vytvoření článku&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;category&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;template&lt;/span&gt;               &lt;span class=&quot;c1&quot;&gt;#category|kategorie -&amp;gt; pro novou kategorii je potřeba vytvořit stránku v &quot;categories&quot;&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;description&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Šablona&lt;/span&gt;             &lt;span class=&quot;c1&quot;&gt;#Header|nadpis&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;thumbnail&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;template/VSCode.png&lt;/span&gt;   &lt;span class=&quot;c1&quot;&gt;#thumbnail|titulní foto -&amp;gt; cesta &quot;/img/blog/*nazev-clanku*/Kolo.png&lt;/span&gt;
+&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt; 
+
+&lt;span class=&quot;gh&quot;&gt;# Hlavní nadpis&lt;/span&gt;
+
+&lt;span class=&quot;gu&quot;&gt;## Vedlejší nadpis&lt;/span&gt;
+
+&lt;span class=&quot;gu&quot;&gt;###  Podnadpis&lt;/span&gt;
+
+Popis projektu
+&lt;span class=&quot;gs&quot;&gt;**Bold**&lt;/span&gt;
+&lt;span class=&quot;ge&quot;&gt;*Italic*&lt;/span&gt;
+~~Přškrtnutý text~~
+&lt;span class=&quot;gt&quot;&gt;&amp;gt; Popisek&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;
+*&lt;/span&gt; Seznam
+&lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; Seznam
+&lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; Seznam
+&lt;span class=&quot;p&quot;&gt;
+1.&lt;/span&gt; Číselný seznam
+&lt;span class=&quot;p&quot;&gt;2.&lt;/span&gt; Číselný seznam
+&lt;span class=&quot;p&quot;&gt;3.&lt;/span&gt; Číselný seznam&lt;span class=&quot;sb&quot;&gt;
+
+
+`return ZDROJOVÝ KÓD;`&lt;/span&gt;
+
+&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Odkaz na kubaandrysek.cz&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;https://kubaandrysek.cz/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;sb&quot;&gt;
+
+
+
+&lt;/span&gt;Obrázky
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://kubaandrysek.cz/assets/blog/template/blog.png&quot;&lt;/span&gt;  &lt;span class=&quot;na&quot;&gt;data-fancybox=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;gallery&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-caption=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Blog&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;gallery standart&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://kubaandrysek.cz/assets/blog/template/blog.png&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Blog&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;48%&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://kubaandrysek.cz/assets/blog/template/temp.png&quot;&lt;/span&gt;  &lt;span class=&quot;na&quot;&gt;data-fancybox=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;gallery&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-caption=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Blog&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;gallery standart&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://kubaandrysek.cz/assets/blog/template/temp.png&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Blog&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;48%&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Kuba&lt;/p&gt;</content><author><name>Kuba Andrýsek</name></author><category term="template" /><summary type="html">Hlavní nadpis</summary></entry></feed>
